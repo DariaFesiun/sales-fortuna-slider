@@ -1,26 +1,41 @@
-# Sales Fortuna — Testimonials Slider
+# Sales Fortuna – Testimonials Slider
 
-A responsive, accessible testimonial slider built with React and Swiper.js.  
-Includes custom navigation arrows, pagination, and styling based on the Figma reference.
+Stylish and responsive testimonial slider for the Sales Fortuna website. Built using **React**, **SCSS**, and **Swiper.js** with fully custom navigation, adaptive layout, and mobile-first design.
 
-## 🚀 Features
-- React + TypeScript
-- Swiper (loop, pagination, custom nav)
-- Fully responsive (1 / 2 / 3 cards layout)
-- Styled based on Figma reference
-- Mobile-first, accessible design
+## 📸 Demo
 
-## 📸 Preview
-![Demo](https://github.com/DariaFesiun/sales-fortuna-slider.git)
+👉 [Live Preview](https://dariafesiun.github.io/sales-fortuna-slider/)  
+👉 [GitHub Repository](https://github.com/DariaFesiun/sales-fortuna-slider)
 
-## 🛠 Technologies
+## ✨ Features
+
+- ✅ Custom arrows with SVG icons
+- ✅ Swiper.js integration
+- ✅ Fully responsive: 1 card on mobile, 2 on tablet, 3 on desktop
+- ✅ Dynamic pagination bullets
+- ✅ Quote icon placement matching Figma design
+- ✅ Loop enabled for better UX
+- ✅ Testimonial data loaded from JSON
+
+## 🔧 Technologies Used
+
 - React + Vite
-- Swiper.js
-- SCSS modules
+- TypeScript
+- SCSS (BEM + media queries)
+- Swiper.js (Navigation & Pagination modules)
 
-## 📦 Installation
+## 🖼️ Figma Reference
+
+The slider was developed based on a precise Figma mockup with full pixel-perfect implementation.
+
+## 🚀 Getting Started
+
 ```bash
-git clone https://github.com/твій_нікнейм/sales-fortuna-slider.git
-cd sales-fortuna-slider
+# Clone the repo
+git clone https://github.com/DariaFesiun/sales-fortuna-slider.git
+
+# Install dependencies
 npm install
+
+# Run dev server
 npm run dev
