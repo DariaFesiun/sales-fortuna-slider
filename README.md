@@ -31,11 +31,11 @@ The slider was developed based on a precise Figma mockup with full pixel-perfect
 ## 🚀 Getting Started
 
 ```bash
-# Clone the repo
+  # Clone the repo
 git clone https://github.com/DariaFesiun/sales-fortuna-slider.git
 
-# Install dependencies
+  # Install dependencies
 npm install
 
-# Run dev server
+  # Run dev server
 npm run dev
